@@ -1,6 +1,7 @@
 // write your code below!
 
-function  () {
+function happyHolidays () {
   
-  
+  return "happy holidays"
+
 }
