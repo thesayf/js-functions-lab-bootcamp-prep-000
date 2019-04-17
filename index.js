@@ -18,7 +18,11 @@ function happyHolidayTo (holiday,  name) {
   
 }
 
-function 
+function holidayCountdown (holiday, days) {
+  
+  return 
+  
+}
 
 
 
